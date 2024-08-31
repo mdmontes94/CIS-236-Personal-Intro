@@ -12,8 +12,10 @@ h1 {
     width: 80%;
     margin: auto;
     border: 10px solid black;
+    text-align: center;
 }
 
 .question {
-
+    width: 80%;
+    margin: auto;
 }
